@@ -5,3 +5,4 @@ undetected-chromedriver
 squarify
 streamlit
 wordcloud
+altair==4.2.2
