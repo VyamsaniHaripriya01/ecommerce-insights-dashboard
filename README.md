@@ -1,6 +1,6 @@
 # 📊 E-commerce Insights Dashboard
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_LINK)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ecommerce-insights-dashboard-da.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
@@ -26,14 +26,14 @@ ecommerce-insight-app
 │
 ├── app/
 │ ├── components/
-│ │ └── charts.py
-│ ├── main.py
-│ └── utils.py
+│ │ └── charts.py     # Visualization functions
+│ ├── main.py         # Streamlit dashboard
+│ └── utils.py        # Data processing utilities
 │
 ├── data/
-│ ├── raw/
+│ ├── raw/                            # Original dataset
 │ │ └── flipkart_com_ecommerce_sample.csv
-│ └── processed/
+│ └── processed/                      # Cleaned dataset used in dashboard
 │ └── flipkart_cleaned.csv
 │
 ├── notebooks/
@@ -118,9 +118,27 @@ python -m streamlit run app/main.py
 
 ---
 ## 🚀 Live Demo
-*(Add after deployment)*
 
-Live App: [Streamlit App Link]
+Live App: [(https://ecommerce-insights-dashboard-da.streamlit.app/)]
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](images/main_dashboard.png)
+
+![Category Analysis](images/categorywise_analysis.png)
+
+![Rating Analysis](images/rating_analysis.png)
+
+---
+
+## 🔍 Key Insights
+
+- Electronics and clothing categories dominate the marketplace.
+- Products with ratings above 4.2 tend to have significantly higher visibility.
+- Discounts strongly influence product popularity.
+- Certain categories show higher price variance indicating competitive pricing.
 
 ---
 
