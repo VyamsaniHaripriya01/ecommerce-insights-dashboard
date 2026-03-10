@@ -1,13 +1,13 @@
 # 📊 E-commerce Insights Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_LINK)
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![License](https://img.shields.io/badge/License-Custom-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/VyamsaniHaripriya01/ecommerce-insights-dashboard)
-![GitHub repo size](https://img.shields.io/github/repo-size/VyamsaniHaripriya01/ecommerce-insights-dashboard)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/VyamsaniHaripriya01/ecommerce-insights-dashboard)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_LINK)
 
 ---
 
