@@ -1,0 +1,7 @@
+selenium
+pandas
+webdriver-manager
+undetected-chromedriver
+squarify
+streamlit
+wordcloud
