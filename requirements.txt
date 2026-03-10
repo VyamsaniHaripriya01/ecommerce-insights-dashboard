@@ -1,8 +1,8 @@
-selenium
+streamlit>=1.37
 pandas
-webdriver-manager
-undetected-chromedriver
-squarify
-streamlit
+numpy
+matplotlib
+seaborn
+plotly
 wordcloud
 altair==4.2.2
